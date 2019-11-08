@@ -3,6 +3,13 @@ Dev Connector is a social site that allows developers to connect via discussion.
 
 ### Visit the deployed site [here](https://serene-crag-08288.herokuapp.com/)
 
+## Dummy Account
+
+Login with the dummy account if you'd like to check out the site without signing up.
+
+Username: `test@test.com` <br/>
+Password: `password`
+
 ## Routes
 A list of the back-end routes includes:
 - Register / Login
